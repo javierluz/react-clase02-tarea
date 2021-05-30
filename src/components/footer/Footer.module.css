@@ -1,0 +1,17 @@
+.footer {
+    background-color: #0b062c;
+    color: white;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+.logo {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.logo a {
+    color: white;
+    text-decoration: none;
+}
+.logo a:hover {
+    text-decoration: underline;
+}
